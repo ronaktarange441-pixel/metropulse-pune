@@ -60,12 +60,6 @@ City life is one big adventure — from discovering hidden food spots and histor
 
 ---
 
-## 🚀 Quick Start (Run Locally)
-
-### Prerequisites
-- Node.js (v18 or higher recommended)
-- npm or pnpm
-
 ### Installation
 
 ```bash
@@ -80,31 +74,12 @@ npm install
 npm run dev
 ```
 
-Open **[http://localhost:5173/](http://localhost:5173/)** in your browser!
-
 ### Building for Production
 
 ```bash
 npm run build
 ```
 The optimized bundle will be created in the `dist/` directory.
-
----
-
-## 🌐 Deploy to the Web for Free (Step-by-Step)
-
-### Option A: Deploy on Vercel (Recommended — Takes 1 Minute)
-1. Push your code to a GitHub repository (see GitHub instructions below).
-2. Go to **[vercel.com](https://vercel.com/)** and sign in with GitHub.
-3. Click **"Add New Project"** and select your `metropulse-pune` repository.
-4. Keep the default settings (Framework: *Vite*, Root: `./`, Build: `npm run build`).
-5. Click **"Deploy"**! Your site is now live with an HTTPS link (e.g., `https://metropulse.vercel.app`).
-
-### Option B: Deploy on Netlify
-1. Go to **[netlify.com](https://netlify.com/)** and sign in with GitHub.
-2. Select your repository.
-3. Set Build Command: `npm run build` and Publish Directory: `dist`.
-4. Click **"Deploy Site"**.
 
 ---
 
@@ -138,11 +113,6 @@ The optimized bundle will be created in the `dist/` directory.
 
 ---
 
-## 🏆 Hackathon Submission Notes
-
-- **Problem Statement Alignment**: Addresses exploration, cultural heritage, safety navigation, neighborhood comparison, and smart crowdsourced alerts.
-- **Geographical Focus**: Designed with authentic local data for Pune, PCMC, and Maval/Lonavla.
-- **Resilience**: Zero dependency on paid map services; reliable Gemini AI integration with smart local fallback.
 
 ---
 
